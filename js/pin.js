@@ -1,6 +1,6 @@
 //pin hover
 
-$(function ($) {
+$(function () {
 
     //    1
 
