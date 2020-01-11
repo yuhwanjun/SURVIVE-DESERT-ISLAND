@@ -14,7 +14,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_1').click(function () {
         $('#bg_dark').toggle();
     });
@@ -31,7 +31,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_2').click(function () {
         $('#bg_dark').toggle();
     });
@@ -48,7 +48,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_4').click(function () {
         $('#bg_dark').toggle();
     });
@@ -81,7 +81,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_7').click(function () {
         $('#bg_dark').toggle();
     });
@@ -98,7 +98,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_9').click(function () {
         $('#bg_dark').toggle();
     });
@@ -116,7 +116,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_10').click(function () {
         $('#bg_dark').toggle();
     });
@@ -134,7 +134,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_11').click(function () {
         $('#bg_dark').toggle();
     });
@@ -152,7 +152,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_12').click(function () {
         $('#bg_dark').toggle();
     });
@@ -170,7 +170,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_13').click(function () {
         $('#bg_dark').toggle();
     });
@@ -188,11 +188,11 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_14').click(function () {
         $('#bg_dark').toggle();
     });
-    
+
     //    21
 
     $('.pin_21').mouseover(function () {
@@ -205,7 +205,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_21').click(function () {
         $('#bg_dark').toggle();
     });
@@ -223,7 +223,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_22').click(function () {
         $('#bg_dark').toggle();
     });
@@ -241,7 +241,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_23').click(function () {
         $('#bg_dark').toggle();
     });
@@ -259,7 +259,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_24').click(function () {
         $('#bg_dark').toggle();
     });
@@ -276,7 +276,7 @@ $(function () {
         $(this).attr("src", "img/pin_down.png");
         $(this).attr("width", "60px");
     });
-    
+
     $('.pin_25').click(function () {
         $('#bg_dark').toggle();
     });
@@ -298,5 +298,5 @@ $(function () {
     $('.pin_26').click(function () {
         $('#bg_dark').toggle();
     });
-    
+
 });
